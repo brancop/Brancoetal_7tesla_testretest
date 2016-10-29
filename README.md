@@ -2,7 +2,7 @@
 Supporting files for the manuscript
 Temporal reliability of ultra-high field resting-state MRI for single-subject sensorimotor and language mapping
 
-Branco, Castro & Seixas, in revew. 
+Branco, Castro & Seixas, in review. 
 
 Contains:
 - An in-depth instructions file with all the necessary steps for replication of the manuscript results
