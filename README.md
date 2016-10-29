@@ -1,4 +1,4 @@
-# temporalreliab_7tesla
+# Brancoetal_7tesla_testretest
 Supporting files for the manuscript
 Temporal reliability of ultra-high field resting-state MRI for single-subject sensorimotor and language mapping
 Branco, Castro & Seixas, in revew. 
